@@ -2,8 +2,8 @@ const TILE_SIZE = 35;
 
 const EXPLOSION_TIME = 2000;
 
-const SPOIL_CHANCE = 50;
-const SPEED = 0;
+const SPOIL_CHANCE = 100;
+const SPEED = 2;
 const POWER = 1;
 const DELAY = 2;
 
